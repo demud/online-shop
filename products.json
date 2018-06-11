@@ -47,5 +47,13 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "Ball",
+        "image": "ball.jpg",
+        "description": "Best ball for playing football",
+        "price": 99.99
     }
+    
 ]
